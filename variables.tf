@@ -32,5 +32,5 @@ variable "MD_SHARE_NAME" {
  default = ""
 }
 
-variable "MD_ALL_TAGS" { }
+
 
